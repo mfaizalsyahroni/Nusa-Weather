@@ -17,7 +17,7 @@
   }
 
   body.night {
-    background-color: #0d1b2a;
+    background-color: #aaaeb2;
   }
 
   .weather-card {
@@ -58,7 +58,7 @@
 
   .weather-card.night::before {
     background: linear-gradient(135deg, #59ccca, #003466);
-    
+
   }
 
   .weather-card.day {
@@ -221,7 +221,7 @@
     font-size: 35px;
     text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.6);
   }
-  
+
   .weather-day {
     font-size: 16px;
   }
